@@ -1,0 +1,3 @@
+Sted2 Support VST Plugin and ASIO Driver
+
+Sted2 is Uniq MIDI Sequencer...
